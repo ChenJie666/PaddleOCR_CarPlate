@@ -1,0 +1,32 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+configs
+!configs/det/det_mv3_db.yml
+!configs/rec/ch_ppocr_v2.0/rec_chinese_lite_train_v2.0.yml
+deploy
+doc
+ppocr
+PPOCRLabel
+ppstructure
+StyleText
+tools
+work/img
+.clang_format.hook
+.pre-commit-config.yaml
+.style.yapf
+__init__.py
+LICENSE
+MANIFEST.in
+paddleocr.py
+README.md
+README_ch.md
+requirements.txt
+setup.py
+train.sh
