@@ -7,7 +7,14 @@
 out
 gen
 
-configs
+
+configs/cls
+configs/det/*
+configs/e2e
+configs/rec/ch_PP-OCRv2
+configs/rec/multi_language
+configs/rec/*.yml
+configs/table
 !configs/det/det_mv3_db.yml
 !configs/rec/ch_ppocr_v2.0/rec_chinese_lite_train_v2.0.yml
 deploy
