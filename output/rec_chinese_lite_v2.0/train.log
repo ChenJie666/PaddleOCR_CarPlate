@@ -13822,3 +13822,15 @@
 [2022/12/13 10:13:27] root INFO: epoch: [42/500], iter: 60400, lr: 0.000983, loss: 0.220517, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 6.20375 s, batch_cost: 6.33151 s, samples: 640, ips: 10.10817
 [2022/12/13 10:14:32] root INFO: epoch: [42/500], iter: 60410, lr: 0.000983, loss: 0.248198, acc: 0.937500, norm_edit_dis: 0.988839, reader_cost: 6.19359 s, batch_cost: 6.32763 s, samples: 640, ips: 10.11438
 [2022/12/13 10:15:30] root INFO: epoch: [42/500], iter: 60420, lr: 0.000983, loss: 0.274201, acc: 0.937500, norm_edit_dis: 0.988839, reader_cost: 5.41757 s, batch_cost: 5.53774 s, samples: 640, ips: 11.55707
+[2022/12/13 10:16:28] root INFO: epoch: [42/500], iter: 60430, lr: 0.000983, loss: 0.197142, acc: 0.945312, norm_edit_dis: 0.992188, reader_cost: 5.46656 s, batch_cost: 5.59612 s, samples: 640, ips: 11.43649
+[2022/12/13 10:17:33] root INFO: epoch: [42/500], iter: 60440, lr: 0.000983, loss: 0.238179, acc: 0.937500, norm_edit_dis: 0.988839, reader_cost: 6.21676 s, batch_cost: 6.34423 s, samples: 640, ips: 10.08791
+[2022/12/13 10:18:43] root INFO: epoch: [42/500], iter: 60450, lr: 0.000983, loss: 0.285137, acc: 0.937500, norm_edit_dis: 0.986607, reader_cost: 6.64917 s, batch_cost: 6.76796 s, samples: 640, ips: 9.45633
+[2022/12/13 10:19:49] root INFO: epoch: [42/500], iter: 60460, lr: 0.000983, loss: 0.289924, acc: 0.937500, norm_edit_dis: 0.988839, reader_cost: 6.20890 s, batch_cost: 6.33375 s, samples: 640, ips: 10.10460
+[2022/12/13 10:20:35] root INFO: epoch: [42/500], iter: 60470, lr: 0.000983, loss: 0.253458, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 4.28056 s, batch_cost: 4.40124 s, samples: 640, ips: 14.54134
+[2022/12/13 10:21:28] root INFO: epoch: [42/500], iter: 60480, lr: 0.000983, loss: 0.263386, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 4.87774 s, batch_cost: 5.00420 s, samples: 640, ips: 12.78926
+[2022/12/13 10:22:11] root INFO: epoch: [42/500], iter: 60490, lr: 0.000983, loss: 0.315356, acc: 0.953125, norm_edit_dis: 0.988839, reader_cost: 3.95348 s, batch_cost: 4.09177 s, samples: 640, ips: 15.64115
+[2022/12/13 10:22:53] root INFO: epoch: [42/500], iter: 60500, lr: 0.000983, loss: 0.230894, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 3.80047 s, batch_cost: 3.93685 s, samples: 640, ips: 16.25665
+[2022/12/13 10:23:40] root INFO: epoch: [42/500], iter: 60510, lr: 0.000983, loss: 0.239035, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 4.37616 s, batch_cost: 4.50253 s, samples: 640, ips: 14.21422
+[2022/12/13 10:24:37] root INFO: epoch: [42/500], iter: 60520, lr: 0.000983, loss: 0.218614, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 5.23610 s, batch_cost: 5.50589 s, samples: 640, ips: 11.62392
+[2022/12/13 10:25:45] root INFO: epoch: [42/500], iter: 60530, lr: 0.000983, loss: 0.238130, acc: 0.953125, norm_edit_dis: 0.991071, reader_cost: 6.40313 s, batch_cost: 6.57277 s, samples: 640, ips: 9.73714
+[2022/12/13 10:26:29] root INFO: epoch: [42/500], iter: 60540, lr: 0.000983, loss: 0.258727, acc: 0.953125, norm_edit_dis: 0.989955, reader_cost: 4.05514 s, batch_cost: 4.17194 s, samples: 640, ips: 15.34059
