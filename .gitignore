@@ -19,6 +19,7 @@ configs/table
 !configs/rec/ch_ppocr_v2.0/rec_chinese_lite_train_v2.0.yml
 deploy
 doc
+output/rec_chinese_lite_v2.0/iter_epoch_*
 ppocr
 PPOCRLabel
 ppstructure
